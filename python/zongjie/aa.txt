@@ -1,0 +1,4 @@
+name,age,sex
+cnm,18,ศหัý
+grd,17,ศหัý
+mmp,19,ศหัý
